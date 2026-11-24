@@ -8,8 +8,11 @@ ORIGIN is an onboarding portal: a guided path through gated training modules, wi
 - **Landing:** a midnight "garden" that leans towards your cursor, a one-time-code sign-in, monthly stats.
 - **Home:** a living vine. Each leaf is a module; leaves grow as you finish material and the flower blooms when you're done.
 - **Modules:** each opens at 80% of the one before. Flip cards, a step-through flow, an "on-brand or off-brand?" sorting game, discipline tabs, quizzes, stickers and confetti.
+- **Ask your trainer:** a card on every module and a floating button; questions go to whoever owns that topic, answers come back in the portal.
+- **Ask ORIGIN:** an AI helper that answers only from the portal's own material, cites where it found it, and hands off to a trainer when it isn't sure.
 - **Daily check-in:** a streak flame, backfill for missed days, and a lock that keeps the portal closed until today's check-in is in.
-- **Manager dashboard:** cohort progress against schedule, who's falling behind, starter-form analytics, pitch-call scorer calibration, attendance, tip analytics and access control.
+- **Manager dashboard:** cohort progress against schedule, who's falling behind, starter-form analytics, pitch-call scorer calibration, practice calls from HAWKEYE (who practises, practice vs real scores, who needs a nudge), attendance, questions, tip analytics, Slack messages with live previews, and access control.
+- **Preview as…:** admins see the portal as a new starter (or a lower admin tier) without saving anything.
 - **Themes:** light, dark and four palettes; tinted pages per module.
 
 ## Built with
